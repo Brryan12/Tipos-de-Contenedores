@@ -14,7 +14,7 @@ Contenedor3::~Contenedor3()
 		delete vec[i];
 }
 
-bool Contenedor3::ingresaPersona(Persona* per)
+bool Contenedor3::ingresarPersona(Persona* per)
 {
 	if (cant < tam) {
 		//Posible clonacion de personas

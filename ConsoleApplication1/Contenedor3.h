@@ -9,7 +9,7 @@ private:
 public:
 	Contenedor3();
 	virtual ~Contenedor3();
-	bool ingresaPersona(Persona *per);
+	bool ingresarPersona(Persona *per);
 	std::string toString();
 };
 
