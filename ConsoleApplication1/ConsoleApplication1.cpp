@@ -6,6 +6,8 @@
 
 int main()
 {
+    int x(2);
+    std::cout << x << std::endl;
     std::cout << "Contenedor 3 " << std::endl;
     Contenedor3* CO3 = new Contenedor3();
     Persona* p1=new Persona("51515", "Juan", 30);
