@@ -130,12 +130,14 @@
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="Contenedor2.cpp" />
     <ClCompile Include="Contenedor3.cpp" />
+    <ClCompile Include="Contenedor4.cpp" />
     <ClCompile Include="Contenedor_1.cpp" />
     <ClCompile Include="Persona.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Contenedor2.h" />
     <ClInclude Include="Contenedor3.h" />
+    <ClInclude Include="Contenedor4.h" />
     <ClInclude Include="Contenedor_1.h" />
     <ClInclude Include="Persona.h" />
   </ItemGroup>
